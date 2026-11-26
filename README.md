@@ -16,15 +16,28 @@ I'm **Trung Nguyen Viet** (Steve Nguyen), and nickname (in-game): **Maris**.
 
 ---
 
-### 🚀 Projects
+### 💻 Projects
 
 #### 💼 Work & Security Projects
 
-| Project | Description |
-| :--- | :--- |
-| *Coming soon* | — |
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">Timeline</th>
+      <th align="left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><em>Coming soon</em></td>
+      <td><em>Coming soon</em></td>
+      <td><em>Coming soon — currently researching, practicing, and building security &amp; systems projects</em></td>
+    </tr>
+  </tbody>
+</table>
 
-#### 🎮 Just-for-Fun Projects *(Pre-University & Side Experiments)*
+#### ☕ Just-for-Fun Projects *(Pre-University & Side Experiments)*
 
 | Project | Timeline | Description |
 | :--- | :--- | :--- |
@@ -59,10 +72,18 @@ I'm **Trung Nguyen Viet** (Steve Nguyen), and nickname (in-game): **Maris**.
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TrungTurbo&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TrungTurbo&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://streak-stats.demolab.com?user=TrungTurbo&theme=transparent&hide_border=true" alt="GitHub Streak" height="165" />
+</p>
+
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrungTurbo&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TrungTurbo&bg_color=00000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
+
+---
+
+<p align="right"><sub><i>sign by maris</i></sub></p>

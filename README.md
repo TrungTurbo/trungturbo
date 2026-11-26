@@ -72,8 +72,8 @@ I'm **Trung Nguyen Viet** (Steve Nguyen), and nickname (in-game): **Maris**.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TrungTurbo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://streak-stats.demolab.com?user=TrungTurbo&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TrungTurbo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=TrungTurbo&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
 </p>
 
 <p align="center">

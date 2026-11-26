@@ -8,7 +8,7 @@ I'm **Trung Nguyen Viet** (Steve Nguyen), and nickname (in-game): **Maris**.
 
 ---
 
-### 🛡️ Focus & Career Direction
+## 🛡️ Focus & Career Direction
 
 - 🔍 Aspiring **Malware Analyst**
 - ⚔️ Interested in both **Red Team** & **Blue Team** operations
@@ -16,9 +16,9 @@ I'm **Trung Nguyen Viet** (Steve Nguyen), and nickname (in-game): **Maris**.
 
 ---
 
-### 💻 Projects
+## 💻 Projects
 
-#### 💼 Work & Security Projects
+### 💼 Work & Security Projects
 
 <table width="100%">
   <thead>
@@ -37,7 +37,7 @@ I'm **Trung Nguyen Viet** (Steve Nguyen), and nickname (in-game): **Maris**.
   </tbody>
 </table>
 
-#### ☕ Just-for-Fun Projects *(Pre-University & Side Experiments)*
+### ☕ Just-for-Fun Projects *(Pre-University & Side Experiments)*
 
 | Project | Timeline | Description |
 | :--- | :--- | :--- |
@@ -48,7 +48,7 @@ I'm **Trung Nguyen Viet** (Steve Nguyen), and nickname (in-game): **Maris**.
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -69,7 +69,7 @@ I'm **Trung Nguyen Viet** (Steve Nguyen), and nickname (in-game): **Maris**.
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=TrungTurbo&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" height="200" />

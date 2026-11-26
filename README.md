@@ -71,20 +71,14 @@ I'm **Trung Nguyen Viet** (Steve Nguyen), and nickname (in-game): **Maris**.
 
 ### 📊 GitHub Stats
 
-<table width="100%">
-  <tr>
-    <td width="40%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=TrungTurbo&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" width="100%" />
-      <br />
-      <img src="https://streak-stats.demolab.com?user=TrungTurbo&theme=transparent&hide_border=true" alt="GitHub Streak" width="100%" />
-      <br />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrungTurbo&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="100%" />
-    </td>
-    <td width="60%" valign="middle">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=TrungTurbo&bg_color=00000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TrungTurbo&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrungTurbo&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="200" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TrungTurbo&bg_color=00000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+</p>
 
 ---
 

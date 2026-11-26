@@ -1,15 +1,12 @@
-### Hi, I'm Trung Nguyen Viet (Steve Nguyen) 👋
+## Trung Nguyen Viet
 
-**2nd-Year Information Security Engineering Student @ HUCE** · **Prospective M.Sc. @ KMA**
+Hi, I'm **Trung Nguyen Viet** (also known as **Steve Nguyen** or **Maris**). I'm an Information Security Engineering student at **Hanoi University of Civil Engineering (HUCE)**, currently preparing for Master's studies at the **Academy of Cryptography Techniques of Vietnam (KMA)**.
 
-- 🎓 Pursuing an Engineer's degree in **Information Security** at **Hanoi University of Civil Engineering (HUCE)**
-- 🎯 Preparing for **Master's admission** at the **Academy of Cryptography Techniques of Vietnam (KMA)**
-- 🔐 Focusing on **Malware Analysis**, **Reverse Engineering**, and **Red Teaming**
-- 💡 Also goes by **Maris** · Open to security study groups, CTF teams, and learning opportunities
+My primary focus lies in **Malware Analysis**, **Reverse Engineering**, and **Red Teaming** — exploring how systems behave under the hood, how threats operate, and how to strengthen defenses. Outside of security research, I enjoy building small utilities and experimenting with software development.
 
 ---
 
-#### Stack
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -23,23 +20,23 @@
 
 ---
 
-#### Highlights
+### Featured Projects
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| *Building in progress.* | — | — |
+| *In progress* | *Currently building and researching — updates coming soon.* | — |
 
-#### Built for Fun
+### Side Projects
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[gamechim](https://github.com/TrungTurbo/gamechim)** | Bird-flying mini-game with custom sprites & audio | `Python` |
-| **[autobot-vibecode](https://github.com/TrungTurbo/autobot-vibecode)** | Discord bot with audio streaming & modular cogs | `Python` `discord.py` `yt-dlp` |
-| **[Robot25](https://github.com/TrungTurbo/Robot25)** | Lightweight Gemini-powered chatbot | `Python` `Gemini API` |
+| **[gamechim](https://github.com/TrungTurbo/gamechim)** | Arcade bird-flying mini-game with custom sprites and audio | `Python` |
+| **[autobot-vibecode](https://github.com/TrungTurbo/autobot-vibecode)** | Modular Discord bot with audio streaming support | `Python` `discord.py` `yt-dlp` |
+| **[Robot25](https://github.com/TrungTurbo/Robot25)** | Lightweight conversational chatbot powered by the Gemini API | `Python` `Gemini API` |
 
 ---
 
-#### Stats
+### GitHub Activity
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=TrungTurbo&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="GitHub stats" height="160" />

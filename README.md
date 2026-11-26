@@ -72,16 +72,16 @@ I'm **Trung Nguyen Viet** (Steve Nguyen), and nickname (in-game): **Maris**.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TrungTurbo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=TrungTurbo&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TrungTurbo&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true" alt="GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=TrungTurbo&theme=tokyonight&background=00000000&hide_border=true" alt="GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrungTurbo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrungTurbo&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true" alt="Top Languages" height="175" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TrungTurbo&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TrungTurbo&bg_color=00000000&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 </p>
 
 ---

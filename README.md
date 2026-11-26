@@ -1,36 +1,49 @@
-## Trung Nguyen Viet
+# Hi there 👋
 
-**Information Security Engineering @ HUCE** | Prospective M.Sc. @ KMA | Steve Nguyen · Maris
+I'm **Trung Nguyen Viet** (English name: **Steve Nguyễn** · Nickname: **Maris**).
 
-Focusing on Malware Analysis, Reverse Engineering, and Red Teaming — understanding how systems behave under the hood, how threats operate, and how to strengthen defenses.
+- 🎓 Studying **Information Security Engineering** at **HUCE** (*Hanoi University of Civil Engineering*)
+- 🎯 Prospective **M.Sc. in Information Security** at **KMA** (*Academy of Cryptography Techniques VietNam*)
+- 📍 Living in **Hanoi, Vietnam, Southeast Asia, Asia, Earth, Solar System** 🌍🚀
 
-### What I Work On
+---
 
-**Security & Systems** — Building a foundation in offensive and analytical security
+### 🛡️ Focus & Career Direction
 
-- Malware analysis and reverse engineering to understand low-level program behavior
-- Red teaming fundamentals, system internals, and defensive hardening
-- Linux environment workflows, containerization, and virtualization labs
+- 🔍 Aspiring **Malware Analyst**
+- ⚔️ Interested in both **Red Team** & **Blue Team** operations
+- 🧩 Currently diving deep into **Pwnable (Binary Exploitation)** and **Reverse Engineering**
 
-**Featured Projects:**
+---
 
-| Repository | Description |
-| :--- | :--- |
-| *In progress* | Currently building and researching — updates coming soon |
+### 🚀 Projects
 
-**Side Projects:**
+#### 💼 Work & Security Projects
+> *Coming soon — currently researching, practicing, and building.*
 
-| Repository | Description |
-| :--- | :--- |
-| [gamechim](https://github.com/TrungTurbo/gamechim) | Arcade bird-flying mini-game written in Python with custom sprites and audio |
-| [autobot-vibecode](https://github.com/TrungTurbo/autobot-vibecode) | Modular Discord bot with audio streaming support (`discord.py`, `yt-dlp`) |
-| [Robot25](https://github.com/TrungTurbo/Robot25) | Lightweight conversational chatbot powered by the Gemini API |
+#### 🎮 Just-for-Fun Projects *(Pre-University & Side Experiments)*
 
-### Tech Stack
+| Project | Timeline | Description |
+| :--- | :--- | :--- |
+| [Robot25](https://github.com/TrungTurbo/Robot25) | Jul 2025 *(Pre-University)* | Lightweight conversational chatbot powered by the Gemini API |
+| [gamechim](https://github.com/TrungTurbo/gamechim) | Jul 2025 *(Pre-University)* | Arcade bird-flying mini-game written in Python with custom sprites and audio |
+| **macbruh-chatbot** *(Private)* | Pre-University | Early personal chatbot experiment built before starting university |
+| [autobot-vibecode](https://github.com/TrungTurbo/autobot-vibecode) | Oct 2026 | Modular Discord bot featuring welcome/goodbye embeds and multi-platform music streaming (`discord.py`, `yt-dlp`) |
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**OS, Shells & Tools**
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Fish](https://img.shields.io/badge/Fish-4AAE4E?style=flat&logo=fishshell&logoColor=white)
@@ -38,9 +51,11 @@ Focusing on Malware Analysis, Reverse Engineering, and Red Teaming — understan
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
 
-### GitHub Activity
+---
+
+### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TrungTurbo&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrungTurbo&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TrungTurbo&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrungTurbo&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="165" />
 </p>

@@ -1,10 +1,10 @@
 # Hi there 👋
 
-I'm **Trung Nguyen Viet** (English name: **Steve Nguyễn** · Nickname: **Maris**).
+I'm **Trung Nguyen Viet** (Steve Nguyen), and nickname (in-game): **Maris**.  
+<sub>📍 Hanoi, Vietnam</sub>
 
 - 🎓 Studying **Information Security Engineering** at **HUCE** (*Hanoi University of Civil Engineering*)
 - 🎯 Prospective **M.Sc. in Information Security** at **KMA** (*Academy of Cryptography Techniques VietNam*)
-- 📍 Living in **Hanoi, Vietnam, Southeast Asia, Asia, Earth, Solar System** 🌍🚀
 
 ---
 
@@ -19,7 +19,10 @@ I'm **Trung Nguyen Viet** (English name: **Steve Nguyễn** · Nickname: **Maris
 ### 🚀 Projects
 
 #### 💼 Work & Security Projects
-> *Coming soon — currently researching, practicing, and building.*
+
+| Project | Description |
+| :--- | :--- |
+| *Coming soon* | — |
 
 #### 🎮 Just-for-Fun Projects *(Pre-University & Side Experiments)*
 
@@ -58,4 +61,8 @@ I'm **Trung Nguyen Viet** (English name: **Steve Nguyễn** · Nickname: **Maris
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=TrungTurbo&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrungTurbo&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TrungTurbo&bg_color=00000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>

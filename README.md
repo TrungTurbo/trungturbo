@@ -15,8 +15,7 @@ Things I've built for competitions, research, or milestones I'm proud of.
 
 | Project | What it does | Stack | Milestone |
 | :--- | :--- | :--- | :--- |
-| **[Project Name](https://github.com/TrungTurbo)** | Short, plain-English summary of the problem it solves | `Python` `Go` | e.g., Top 5 CTF / Dean's List / Research |
-| **[Project Name](https://github.com/TrungTurbo)** | Security tool, thesis, or production-ready system | `C++` `Linux` | e.g., Published / Best Project |
+| *Coming soon...* | *Currently learning & building — stay tuned.* | — | — |
 
 ---
 
@@ -26,8 +25,9 @@ Weekend rabbit holes, small utilities, and ideas I coded just to see if they'd w
 
 | Experiment | The idea | Built with | Vibe |
 | :--- | :--- | :--- | :--- |
-| **[Mini Tool](https://github.com/TrungTurbo)** | A tiny script that automates something mildly annoying | `Python` `Bash` | Works on my machine™ |
-| **[Random Idea](https://github.com/TrungTurbo)** | Game mod, bot, or late-night curiosity | `TypeScript` | Purely for fun |
+| **[gamechim](https://github.com/TrungTurbo/gamechim)** | A simple bird-flying mini-game with custom sprites & sound | `Python` | Classic arcade fun |
+| **[autobot-vibecode](https://github.com/TrungTurbo/autobot-vibecode)** | A Discord bot with audio streaming & modular cogs | `Python` `discord.py` `yt-dlp` | Built for the server |
+| **[Robot25](https://github.com/TrungTurbo/Robot25)** | A lightweight chatbot powered by Gemini (summer 2025 project) | `Python` `Gemini API` | Expect bugs :))) |
 
 ---
 
